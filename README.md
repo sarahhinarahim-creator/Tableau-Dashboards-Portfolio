@@ -1,5 +1,5 @@
 # Tableau-Dashboards-Portfolio
-Interactive Tableau Public dashboards covering hospitality, census, and financial consumer complaints.
+Interactive Tableau Public dashboards covering hospitality,  Whatsapp census.
 
 All published visualizations can be explored on my [Tableau Public Profile](https://public.tableau.com/app/profile/hina.rahim).
 
